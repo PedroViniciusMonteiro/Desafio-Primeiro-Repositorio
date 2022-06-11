@@ -1,0 +1,5 @@
+Link para download do Git https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git
+git config --global user.email "fulano@example.com" (Escolhendo email padrão)
+git config --global user.name "ciclano de paula" (Escolhendo nome padrão)
+git add -A (Adiciona todos os arquivos alterados no controle de versão local)
