@@ -3,5 +3,10 @@ O Git Bash é um terminal extendido para otimizar o uso do Git
 git config --global user.email "fulano@example.com" (Escolhendo email padrão)
 git config --global user.name "ciclano de paula" (Escolhendo nome padrão)
 git add -A (Adiciona todos os arquivos alterados no controle de versão local)
+<<<<<<< HEAD
 git commit -m "Um comentario coerente" (adiciona um commit para aquele arquivo)
 git push origin main (Adiciona o arquivo alterado no controle de versão do GitHub)
+=======
+git commit -m "Msg a ser exibida, tem que ser coerente"
+git push origin main (Adiciona o arquivo alterado no controle de versão do GitHub)
+>>>>>>> c37da6a8dd4b467681eaf6cea525f5504754788f
